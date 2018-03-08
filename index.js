@@ -5,6 +5,7 @@ var app = express();
 const port = process.env.PORT || '5000';
 
 app.set('port', port);
+
 app.use(express.static(__dirname + '/public'));
 app.get('/[^\.]+s', function(req, res){
 	res.set('Content-Type', "text/html")
