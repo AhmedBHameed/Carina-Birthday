@@ -123,7 +123,7 @@ var notes = [
   {
     f: 349,
     d: 1,
-    t: "Ya&nbsp;",
+    t: "Dear&nbsp;",
     p: p4,
   },
   {
