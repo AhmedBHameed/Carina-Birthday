@@ -117,19 +117,19 @@ var notes = [
   {
     f: 440,
     d: 1,
-    t: "Dear&nbsp;",
+    t: "Dear",
     p: p3,
   },
   {
     f: 349,
     d: 1,
-    t: "Dear&nbsp;",
+    t: "Sha",
     p: p4,
   },
   {
     f: 330,
     d: 1,
-    t: "Sha",
+    t: "&hearts;&hearts;&hearts;",
     p: p4,
   },
   {
